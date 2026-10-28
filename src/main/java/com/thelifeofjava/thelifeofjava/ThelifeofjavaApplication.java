@@ -1,0 +1,13 @@
+package com.thelifeofjava.thelifeofjava;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ThelifeofjavaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ThelifeofjavaApplication.class, args);
+	}
+
+}
